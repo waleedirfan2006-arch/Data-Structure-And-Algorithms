@@ -5,9 +5,7 @@ This repository contains my work, implementations, and practice material for Dat
 DSA is one of the core foundations of computer science and software development. Data Structures provide efficient ways to organize, store, and manage data, while Algorithms provide step-by-step procedures for solving problems efficiently.
 
 Topics Covered
-
-This repository includes implementations and examples of various fundamental DSA topics, such as:
-
+This repository includes implementations and examples of various fundamental DSA topics, such as
 Arrays
 Linked Lists
 Singly Linked List
@@ -25,9 +23,7 @@ Recursion
 Hashing
 And other fundamental DSA concepts
 Operations & Implementations
-
 For each data structure, the repository focuses on understanding and implementing its fundamental operations, including:
-
 Insertion
 Deletion
 Traversal
